@@ -1,0 +1,12 @@
+{
+  "name": "Xavier",
+  "version": "1.0.0",
+  "description": "My wedding website (ft. Novita Santoso)",
+  "main": "index.js",
+  "repository": "git@github.com:xavierang/xavita.git",
+  "author": "xavierang <sgtxav@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.4.3"
+  }
+}
