@@ -1,0 +1,17 @@
+.c-sprite {
+  align-items: center;
+  backface-visibility: hidden;
+  display: inline-flex;
+  height: 32px;
+  justify-content: center;
+  transition: all $global-transition;
+  vertical-align: middle;
+  width: 32px;
+
+  svg {
+    display: block;
+    height: 16px;
+    transition: all $global-transition;
+    width: 16px;
+  }
+}

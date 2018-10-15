@@ -8,7 +8,10 @@
   "license": "MIT",
   "dependencies": {
     "blendid": "^4.4.3",
-    "inuitcss": "^6.0.0"
+    "gsap": "^2.0.2",
+    "inuitcss": "^6.0.0",
+    "sass-fonts": "^2.0.1",
+    "sass-mq": "^5.0.0"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
