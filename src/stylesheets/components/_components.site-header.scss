@@ -1,0 +1,19 @@
+$c-site-header-height--mobile: 60px;
+$c-site-header-height--desktop: 100px;
+
+.c-site-header {
+  background-color: $black;
+  height: $c-site-header-height--mobile;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+
+  @include mq($from: desktop) {
+    height: $c-site-header-height--desktop;
+  }
+}
+
+.c-site-header__nav {
+  color: $white;
+}
